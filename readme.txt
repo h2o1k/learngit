@@ -6,3 +6,6 @@ Creating a new branch is quick
 Creating a new branch is quick and simple.
 just for test
 fix bug 101
+hell master by master
+hello add by feature1
+coding in dev branch
